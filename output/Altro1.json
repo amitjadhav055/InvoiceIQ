@@ -4,40 +4,34 @@
     "Vendor Name": "Altro APAC Pty Ltd",
     "Line Items": [
         {
-            "description": "D25421",
-            "quantity": 1.0,
-            "unitPrice": 91.0,
-            "total": 91.0
+            "Description": "D25421",
+            "Quantity": 1.0,
+            "Unit Price": 91.0,
+            "Total": 91.0
         },
         {
-            "description": "AUHAND",
-            "quantity": 1.0,
-            "unitPrice": 4.8,
-            "total": 4.8
+            "Description": "AUHAND",
+            "Quantity": 1.0,
+            "Unit Price": 4.8,
+            "Total": 4.8
         },
         {
-            "description": "AUFREIGHT",
-            "quantity": 1.0,
-            "unitPrice": 35.0,
-            "total": 35.0
+            "Description": "AUFREIGHT",
+            "Quantity": 1.0,
+            "Unit Price": 35.0,
+            "Total": 35.0
         },
         {
-            "description": "2.5MM RELIANCE MIDNIGHT",
-            "quantity": 3.0,
-            "unitPrice": 95.0,
-            "total": 285.0
+            "Description": "2.5MM RELIANCE MIDNIGHT",
+            "Quantity": 3.0,
+            "Unit Price": 95.0,
+            "Total": 285.0
         },
         {
-            "description": "Handling",
-            "quantity": 1.0,
-            "unitPrice": 1.0,
-            "total": 1.0
-        },
-        {
-            "description": "Freight",
-            "quantity": 1.0,
-            "unitPrice": 9.5,
-            "total": 9.5
+            "Description": "Handling",
+            "Quantity": 1.0,
+            "Unit Price": 9.5,
+            "Total": 9.5
         }
     ],
     "Subtotal": 436.8,
